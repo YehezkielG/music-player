@@ -2,8 +2,8 @@
 
 - **Overview**: This repository contains a music player built with a Next.js frontend (in `next/`) and an Electron wrapper (in `electron/`). The Next app is the UI and static assets provider; Electron packages the Next build and runs the desktop application.
 
-- **Author**: Jane Doe
-- **License**: MIT
+- **Author**: Yehezkiel Haganta
+- **License**: Apache License
 
 **Quick Start**
 - **Prerequisites**: Node.js (v18+ recommended) and npm installed.
